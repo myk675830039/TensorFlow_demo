@@ -1,3 +1,6 @@
+#简单网络mnist demo
+#1个隐含层 784-100-10 交叉熵 Adam优化器 dropout 学习率梯度下降
+
 import tensorflow as tf
 import numpy as np
 import cv2
